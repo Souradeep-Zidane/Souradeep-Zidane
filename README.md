@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Souradeep-Zidane
+- 👋 Hi, I’m Souradeep
 - 👀 I’m interested in ... Machine Learning and Automation
 - 🌱 I’m currently learning ... Python3
 - 💞️ I’m looking to collaborate on ... Nothing at the moment since I'm still a beginner
